@@ -12,4 +12,4 @@ Make sure you have Docker and Docker Compose installed on your system.
 2. Build and run the Docker containers: `docker-compose up`
 3. Access the Creditworthiness Prediction Service at http://localhost:5000.
 ## Usage
-1. Once the service is running, you can make HTTP requests to the API to predict creditworthiness. Example API endpoint: http://localhost/api/Form
+1. Once the service is running, you can make HTTP requests to the API to predict creditworthiness. Example API endpoint: http://localhost:5000/api/Form
