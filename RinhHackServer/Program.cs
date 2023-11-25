@@ -9,6 +9,7 @@ using RinhHackServer.Services;
 using System.Text;
 using System.Text.Json.Serialization;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
